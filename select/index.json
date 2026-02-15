@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Drive",
+  "base_artist": "Carly Rae Jepsen",
+  "createdAt": "2026-02-15T04:15:50.816672Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Have to Drive",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/01_Have_to_Drive_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drive",
+      "artist": "Cory Marks",
+      "has_synced": true,
+      "path": "select/02_Drive_Cory_Marks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drive",
+      "artist": "Madison Wolfe",
+      "has_synced": true,
+      "path": "select/03_Drive_Madison_Wolfe.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Drive (For Daddy Gene)",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/04_Drive_(For_Daddy_Gene)_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Drive (For Daddy Gene)",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/05_Drive_(For_Daddy_Gene)_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Drive On Back",
+      "artist": "Coffey Anderson",
+      "has_synced": false,
+      "path": "select/06_Drive_On_Back_Coffey_Anderson.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Drive South",
+      "artist": "Suzy Bogguss",
+      "has_synced": true,
+      "path": "select/07_Drive_South_Suzy_Bogguss.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Drive Your Truck",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/08_I_Drive_Your_Truck_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Just Drive",
+      "artist": "Erin Kinsey",
+      "has_synced": true,
+      "path": "select/09_Just_Drive_Erin_Kinsey.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Just Drive",
+      "artist": "Erin Kinsey",
+      "has_synced": true,
+      "path": "select/10_Just_Drive_Erin_Kinsey.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Motorcycle Drive By",
+      "artist": "Zach Bryan",
+      "has_synced": true,
+      "path": "select/11_Motorcycle_Drive_By_Zach_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shut Up and Drive",
+      "artist": "Chely Wright",
+      "has_synced": true,
+      "path": "select/12_Shut_Up_and_Drive_Chely_Wright.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shut Up And Drive (Album Version)",
+      "artist": "Chely Wright",
+      "has_synced": true,
+      "path": "select/13_Shut_Up_And_Drive_(Album_Version)_Chely_Wright.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "What Colour You Drive",
+      "artist": "Hunter Brothers",
+      "has_synced": true,
+      "path": "select/14_What_Colour_You_Drive_Hunter_Brothers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drive",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": false,
+      "path": "select/pl_01_Drive_Carly_Rae_Jepsen.txt"
+    }
+  ]
+}
